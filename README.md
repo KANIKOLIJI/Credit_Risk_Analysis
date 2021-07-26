@@ -16,7 +16,11 @@ After trying different models, the results is tested using a logistic regression
 
 * The Easy Ensemble Classifier produced a balanced accuracy score of 0.93, a precision of 0.09, and a recall of 0.92.
 
+* The SMOTE oversampling produced balanced accuracy score of 0.66, a precision of 0.01, and a recall of 0.63.
 
+* Undersampling daata with the cluster centroids algorithm produced a balanced accuracy score of 0.54, a precision of 0.01, and a recall of 0.69.
+
+* the SMOTEENN combination over and undersampling algorithm produced a balanced accuracy score of 0.66, a precision of 0.01, and a recall of 0.75.
 
 
 ## SUMMARY:
